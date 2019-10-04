@@ -1,0 +1,165 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.header{
+  background-color: white;
+  width: 960px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 200px;
+}
+.slika1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 40px;
+}
+.button{
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding-top: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+  border: 0;
+  background-color: white;
+}
+.home{
+  border-bottom: 4px solid orange;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+}
+.search{
+  width: 200px;
+  margin-left: 40px;
+  border-radius: 25px;
+  background-color:lightgray;
+  color: black;
+}
+.body{
+  background-image: url("pozadina.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:  cover;
+  height: 600px;
+  width: 100%;
+}
+
+.tekst1{
+  height: 350px;
+  margin-left: 460px;
+  color: white;
+}
+.h1{
+  width: 300px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.p1{
+  width: 120px;
+  padding-bottom: 50px;
+}
+.p2{
+  width: 300px;
+  color: white;
+  text-align: justify;
+  padding-bottom: 30px;
+}
+.body2{
+  border-radius: 25px;
+  background-color: orange;
+  width: 200px;
+  height: 30px;
+  display: flex;
+  font-size: 16px;
+}
+.h2{
+  font-weight: normal;
+  font-size: 16px;
+  padding-top: 6px;
+  padding-left: 10px;
+  padding-bottom: 6px;
+}
+.sl2{
+  padding-top: 6px;
+  padding-left: 80px;
+  padding-bottom: 6px;
+}
+.naslov{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  margin-top: 40px;
+  height: 40px;
+  width: 1100px;
+}
+.h3{
+  width: 1000px;
+  font-size: 20px;
+  margin-bottom: -20px;
+  border-bottom: 4px solid silver;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+}
+.h4{
+  color: black;
+  font-weight: bold;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.sl3{
+  padding-top: 40px;
+  padding-bottom: 26px;
+}
+.read{
+  color: orange;
+}
+.p3{
+  color: black;
+  text-align: justify;
+}
+.footer{
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+.povrsina{
+  border: 3px solid white;
+}
+.prvi{
+  width: 300px;
+}
+.druga{
+  margin-left: 50px;
+  width: 300px;
+}
+.treca{
+  margin-left: 50px;
+  width: 300px;
+}
+.box{
+  margin-top: 30px;
+  width: 300px;
+  height: 15px;
+  background-color: lightblue;
+}
+.sl4{
+  padding-top: 40px;
+  padding-bottom: 26px;
+}
+.h5{
+  color: black;
+  font-weight: bold;
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+.p4{
+  color: black;
+  text-align: justify;
+}
